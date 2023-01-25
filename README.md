@@ -1,5 +1,7 @@
 Udacity Project: Write a blog post
 
+Link to the blog post: https://medium.com/@tafferulli/where-to-open-the-next-office-a-data-driven-approach-for-software-development-companies-295a55b37d85
+
 Libraries used: Numpy, Pandas, Matplotlib
 
 Motivation: I tried to work on a project that could be a real business case in a company. Therefore, I put myself in the shoes of a company that has to decide where to open an office, and I therefore tried to collect data such as the amount of programmers in a given country, or the average salary the company can expect to have to pay 
