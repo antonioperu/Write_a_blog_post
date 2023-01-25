@@ -4,7 +4,8 @@ Libraries used: Numpy, Pandas, Matplotlib
 
 Motivation: I tried to work on a project that could be a real business case in a company. Therefore, I put myself in the shoes of a company that has to decide where to open an office, and I therefore tried to collect data such as the amount of programmers in a given country, or the average salary the company can expect to have to pay 
 
-Files included in this project
+Files included in this project:
+
 ·	Dataset:[Stack Overflow Developer Survey, 2017, a yearly survey conducted by stack overflow, collecting data on anything from programming languages to salaries to code styles and other topics. In 2017, they collected almost 64,000 replies from 213 different nations.](https://www.kaggle.com/datasets/stackoverflow/so-survey-2017)
 
 ·	Python notebook with the code: The python notebook with the code on which the project, including the blog post is based
