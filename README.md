@@ -15,7 +15,7 @@ Summary of results:
 
 This project was conducted on the base of the CRIPS-DM methodology
 
-1)Business understanding: 
+1) Business understanding: 
 A company, wants to know where to find the best programmers hence, where to find a large pool of programmers, therefore the first question is going to be Where do the survey respondents come from?
 The second question is going to be, Are salaries dependent (at least in part) from the location of the programmer?
 The third question is going to be How much do specific types of companies pay for a professional developer?
@@ -31,6 +31,8 @@ No machine learning was used in the project, only descriptive statistics
 
 5) Evaluation
 
-1 ) Where do the survey respondents come from?: most respondents are from either affluent countries (with the united states by far in the lead) or populous countries, such as India (in second place with more respondents) or Russia.
-2) Are salaries dependent (at least in part) from the location of the programmer? Definetly yes, with the United States and other affluent countries leading the ranking of the countries offering the best salaries.
-3) How much do specific types of companies pay for a professional developer? Publicly traded companies (and private companies in general) pays better salary than state-owned companies
+- Where do the survey respondents come from?: most respondents are from either affluent countries (with the united states by far in the lead) or populous countries, such as India (in second place with more respondents) or Russia.
+
+- Are salaries dependent (at least in part) from the location of the programmer? Definetly yes, with the United States and other affluent countries leading the ranking of the countries offering the best salaries.
+
+- How much do specific types of companies pay for a professional developer? Publicly traded companies (and private companies in general) pays better salary than state-owned companies
