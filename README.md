@@ -6,7 +6,9 @@ Motivation: I tried to work on a project that could be a real business case in a
 
 Files included in this project
 ·	Dataset:[Stack Overflow Developer Survey, 2017, a yearly survey conducted by stack overflow, collecting data on anything from programming languages to salaries to code styles and other topics. In 2017, they collected almost 64,000 replies from 213 different nations.](https://www.kaggle.com/datasets/stackoverflow/so-survey-2017)
+
 ·	Python notebook with the code: The python notebook with the code on which the project, including the blog post is based
+
 ·	This ReadMe file
 
 Summary of results:
