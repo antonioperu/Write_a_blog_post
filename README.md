@@ -1,4 +1,4 @@
-Udacity Project: Write a blog post
+#Udacity Project: Write a blog post
 
 Link to the blog post: https://medium.com/@tafferulli/where-to-open-the-next-office-a-data-driven-approach-for-software-development-companies-295a55b37d85
 
